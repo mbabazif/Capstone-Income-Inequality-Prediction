@@ -30,9 +30,9 @@ NoteBook
 
 ## Summary
 
- | Project's Name | Published Article  | Deployed App | FastApi
+ | Project's Name | Published Article  | Deployed App | Docker   | FastApi
 |:--------------:|:--------------:|:--------------:|:-------------|
-| (Income Inequality)  |[Project Article]() |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Income-Prediction-App) | [Docker](https://hub.docker.com/r/mbabaziflorence1234/income-classification-fastapi)
+| (Income Inequality)  |[Project Article]() |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Income-Prediction-App) | [Docker](https://hub.docker.com/r/mbabaziflorence1234/income-classification-fastapi) | [FastApi] (https://mbabazi-income-prediction.hf.space/docs)
 
 ## Author
 
