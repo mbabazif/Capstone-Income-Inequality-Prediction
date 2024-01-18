@@ -1,4 +1,4 @@
-__Problem Statement__
+# Problem Statement
 
 Income inequality - when income is distributed in an uneven manner among a population - is a growing problem in developing nations across the world. With the rapid rise of AI and worker automation, this problem could continue to grow if steps are not taken to address the issue.
 
@@ -32,7 +32,7 @@ NoteBook
 
  | Project's Name | Published Article  | Deployed App | FastApi
 |:--------------:|:--------------:|:--------------:|:-------------|
-| LP2(Income Inequality)  |[Project Article]() |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Income-Prediction-App) | [Docker](https://hub.docker.com/r/mbabaziflorence1234/income-classification-fastapi)
+| (Income Inequality)  |[Project Article]() |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Income-Prediction-App) | [Docker](https://hub.docker.com/r/mbabaziflorence1234/income-classification-fastapi)
 
 ## Author
 
